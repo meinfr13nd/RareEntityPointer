@@ -1,0 +1,3 @@
+displayName = Rare Entity Pointers
+author = meinfr13nd
+version = 0.1
